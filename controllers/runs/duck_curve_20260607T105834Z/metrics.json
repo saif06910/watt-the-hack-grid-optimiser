@@ -1,0 +1,32 @@
+{
+  "summary": {
+    "renewable_ratio": 0.405534721324195,
+    "grid_stability": -16674.13079242791,
+    "cost": 858214.8299505833,
+    "unmet_demand_total": 0.0,
+    "final_score": 858214.8299505833,
+    "controller_errors": 0
+  },
+  "cost_breakdown": {
+    "tariff_import": 669565.0,
+    "tariff_export": -28218.4557,
+    "generator_fuel": 0.0,
+    "blackout_penalty": 0.0,
+    "overvoltage_penalty": 0.0,
+    "battery_wear": 27381.5443,
+    "demand_charge": 107000.0,
+    "carbon_cost": 82320.0,
+    "ramp_charge": 166.7413,
+    "fcas_revenue": 0.0,
+    "fcas_ramp_charge": 0.0,
+    "compliance_penalty": 0.0,
+    "ids_cost": 0.0,
+    "diesel_ban_penalty": 0.0,
+    "fcas_dispatch_bonus": 0.0,
+    "fcas_shortfall_penalty": 0.0,
+    "phishing_fine": 0.0,
+    "cyber_containment_fine": 0.0,
+    "anomaly_ack_fine": 0.0,
+    "total": 858214.83
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "scenario_id": "duck_curve",
+  "scenario_title": "The Duck Curve",
+  "scenario_mechanics": [
+    [
+      "battery",
+      true
+    ],
+    [
+      "curtailment",
+      true
+    ],
+    [
+      "emergency_generator",
+      true
+    ],
+    [
+      "fcas",
+      false
+    ]
+  ],
+  "controller_path": "C:\\Users\\Saadi\\PycharmProjects\\watt-the-hack-grid-optimiser\\controllers\\duck_curve.py",
+  "controller_kind": "callable",
+  "total_steps": 288,
+  "wall_seconds": 0.027,
+  "engine_version": "0.1.0",
+  "timestamp_utc": "2026-06-07T10:58:15.901136+00:00"
+}
